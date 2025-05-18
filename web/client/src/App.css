@@ -45,6 +45,9 @@
     box-sizing: border-box;
 
     /* main font */
+    font-family: "IBM Plex Serif", serif;
+    font-style: normal;
+    font-weight: 500;
 }
 
 body, html {
